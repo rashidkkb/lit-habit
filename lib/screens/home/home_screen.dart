@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Lit Habit",
+          "مولد كتاب",selectionColor: Colors.blue,
           style: Theme.of(context).textTheme.labelLarge,
         ),
       ),
